@@ -1,10 +1,10 @@
 # quale-minha-nota
 
-* [JS]/[TS]
+* **[JS]/[TS]**
 
-* [IONIC]
+* **[IONIC]**
 
-* [ANGULAR]
+* **[ANGULAR]**
 
 * [...]
 
